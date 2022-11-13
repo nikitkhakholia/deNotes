@@ -8,9 +8,12 @@ It is a decentralised way to write and update your notes. You own the notes you
 # How it is built?
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://raw.githubusercontent.com/nikitkhakholia/deNotes/main/readme-assets/ethereum.png" height="40"  alt="ethereium logo"  />
+  <img src="https://raw.githubusercontent.com/nikitkhakholia/deNotes/main/readme-assets/solidity.svg" height="40"  alt="solidity logo"  />
+    <img src="https://raw.githubusercontent.com/nikitkhakholia/deNotes/main/readme-assets/hadrhat.svg" height="40"  alt="hardhat logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"  alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"  alt="tailwindcss logo"  />
 
 </div>
 The solution is developed on the Ethereum network with the Solidity programming language. React app is developed using Tailwind CSS to interface with the contracts placed on the network. For a better user experience, Google Icons and Fonts are utilised.
