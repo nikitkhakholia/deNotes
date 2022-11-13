@@ -10,7 +10,7 @@ It is a decentralised way to write and update your notes. You own the notes you
 
   <img src="https://raw.githubusercontent.com/nikitkhakholia/deNotes/main/readme-assets/ethereum.png" height="40"  alt="ethereium logo"  />
   <img src="https://raw.githubusercontent.com/nikitkhakholia/deNotes/main/readme-assets/solidity.svg" height="40"  alt="solidity logo"  />
-    <img src="https://raw.githubusercontent.com/nikitkhakholia/deNotes/main/readme-assets/hadrhat.svg" height="40"  alt="hardhat logo"  />
+  <img src="https://raw.githubusercontent.com/nikitkhakholia/deNotes/main/readme-assets/hadrhat.svg" height="40"  alt="hardhat logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"  alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"  alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"  alt="tailwindcss logo"  />
