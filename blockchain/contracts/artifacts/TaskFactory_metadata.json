@@ -217,11 +217,11 @@
 	},
 	"sources": {
 		"blockchain/contracts/TaskFactory.sol": {
-			"keccak256": "0x58303396d97dc5eb3a67806865f07c26d533c944d1681f404f4a428189b5eb53",
+			"keccak256": "0xb5c1a7fc1ebdfcf07c244a627a3bd90d524f5e4422bed94e6f72ab60d36b289e",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://2ffb0de40ee33ac00a2ee53a724abad4316ec002c4d60d4afc0343c1244039fb",
-				"dweb:/ipfs/QmS4DcpsJG583MVTc8H4xkMV3i29n8uPTKozSbwVRnKhss"
+				"bzz-raw://1588ce4b0dc1cff68dd99221b9ff08c932fda6807060a0897682c45f91b90b91",
+				"dweb:/ipfs/QmYhC3JEp8H2oParKDwTBUWFeG67oXkzJFv12PZfKTDCjt"
 			]
 		},
 		"hardhat/console.sol": {

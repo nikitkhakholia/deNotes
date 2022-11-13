@@ -13,6 +13,14 @@ contract TaskFactory {
         string taskDescription;
         string[] labels;
         address assignee;
+        // 0 - Created (default)
+        // 1 - Assigned
+        // 2 - In_Progress
+        // 3 - In_Review
+        // 4 - Completed
+        // 5 - Archived
+        // 6 - Deleted
+
         uint8 status;
     }
 
